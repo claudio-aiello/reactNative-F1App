@@ -1,7 +1,7 @@
 export const articles_url= 'https://newsapi.org/v2/everything';
 export const country_code= 'it';
 export const category='general';
-export const _api_key='4efd84e5241f45968034f24f1e1bdc12';
+export const _api_key='yourApiKey';
 
 export async function getArticles() {
 
