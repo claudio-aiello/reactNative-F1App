@@ -1,0 +1,992 @@
+{
+  "bahrain": {
+    "season": "2021",
+    "round": "1",
+    "raceName": "Bahrain Grand Prix",
+    "circuitName": "Bahrain International Circuit",
+    "firstGradPrix": "2004",
+    "numberOfLaps": "57",
+    "circuitLength": "5.412",
+    "raceDistance": "308.238",
+    "fastestLap": {
+      "time": "1:31.447",
+      "driver": "Pedro de la Rosa",
+      "season": "2005"
+    },
+    "circuitInfo": "You can usually expect great racing and decent amounts of overtaking in Bahrain, while the drivers have to contend with wind, racing under floodlights and the difficulty of finding a decent set-up with the wide temperature fluctuations between sessions. The track’s most challenging point is the tight, downhill, off-camber Turn 10 left-hander, while the fast run through Turn 12 is another highlight, allowing the racers to really feel their cars coming alive.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "26.03.2021",
+        "time": "14:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "26.03.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "27.03.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "27.03.2021",
+        "time": "18:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "28.03.2021",
+        "time": "18:00:00"
+      }
+    ]
+  },
+  "imola": {
+    "season": "2021",
+    "round": "2",
+    "raceName": "Gran Premio Del Made In Italy E Dell'emilia Romagna",
+    "circuitName": "Autodromo Enzo e Dino Ferrari",
+    "firstGradPrix": "1980",
+    "numberOfLaps": "63",
+    "circuitLength": "4.909",
+    "raceDistance": "309.049",
+    "fastestLap": {
+      "time": "1:15.484",
+      "driver": "Lewis Hamilton",
+      "season": "2020"
+    },
+    "circuitInfo": "A thrill ride. After testing his AlphaTauri AT01 at the track in the build-up to the 2020 season, Pierre Gasly called the experience one of the best he’d ever had in a Formula 1 car, while his then-team mate Daniil Kvyat remarked that “an F1 car through corners like Acque Minerali – the entrance is so fast, it’s so cool. It really gives you a lot of adrenaline.” The anti-clockwise circuit is certainly fast, with an old-school feel as the drivers put it on the line in iconic corners like the aforementioned Acque Minerali and Piratella.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "16.04.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "16.04.2021",
+        "time": "14:30:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "17.04.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "17.04.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "18.04.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "portimao": {
+    "season": "2021",
+    "round": "3",
+    "raceName": "Portugal Grand Prix",
+    "circuitName": "Autódromo Internacional do Algarve",
+    "firstGradPrix": "2020",
+    "numberOfLaps": "66",
+    "circuitLength": "4.653",
+    "raceDistance": "306.826",
+    "fastestLap": {
+      "time": "1:18.750",
+      "driver": "Lewis Hamilton",
+      "season": "2020"
+    },
+    "circuitInfo": "Rather like Austin’s Circuit of The Americas, Portimao is a modern venue with elevation change baked into its layout. The Ricardo Pena-designed 4.6-km lap sends drivers swooping up hill and down dale, before culminating in a plunge down to the final right-hander at Galp leading back onto the pit straight.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "30.04.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "30.04.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "01.05.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "01.05.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "02.05.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "catalunya": {
+    "season": "2021",
+    "round": "4",
+    "raceName": "Spanish Grand Prix",
+    "circuitName": "Circuit de Barcelona-Catalunya",
+    "firstGradPrix": "1991",
+    "numberOfLaps": "66",
+    "circuitLength": "4.655",
+    "raceDistance": "307.104",
+    "fastestLap": {
+      "time": "1:18.149",
+      "driver": "Max Verstappen",
+      "season": "2021"
+    },
+    "circuitInfo": "The drivers love the Circuit de Barcelona-Catalunya, which is just as well, because they spend huge amounts of time pounding around it during winter testing. The track is a good mix of high- and low-speed corners, with the challenging Turn 3 right-hander a great chance to evaluate the balance of the car your team’s designers have given you to fight with for the season.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "07.05.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "07.05.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "08.05.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "08.05.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "09.05.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "monaco": {
+    "season": "2021",
+    "round": "5",
+    "raceName": "Monaco Grand Prix",
+    "circuitName": "Circuit de Monaco",
+    "firstGradPrix": "1950",
+    "numberOfLaps": "78",
+    "circuitLength": "3.337",
+    "raceDistance": "260.286",
+    "fastestLap": {
+      "time": "1:12.909",
+      "driver": "Lewis Hamilton",
+      "season": "2021"
+    },
+    "circuitInfo": "Incredibly narrow and totally iconic. Nelson Piquet memorably described driving around Monaco as “like riding a bicycle around your living room”… which is fair. Despite that, it’s a challenge that nearly all drivers love, forcing them to put their skills on the line and rewarding millimetric accuracy. Overtaking on the tight streets is harder, however, with the 2003 Grand Prix witnessing a grand total of zero passing moves!",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "20.05.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "20.05.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "22.05.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "22.05.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "23.05.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "BAK": {
+    "season": "2021",
+    "round": "6",
+    "raceName": "Azerbaijan Grand Prix",
+    "circuitName": "Baku City Circuit",
+    "firstGradPrix": "2016",
+    "numberOfLaps": "51",
+    "circuitLength": "6.003",
+    "raceDistance": "306.049",
+    "fastestLap": {
+      "time": "1:43.009",
+      "driver": "Charles Leclerc",
+      "season": "2019"
+    },
+    "circuitInfo": "A mixture of wide and open and tight and twisty. The lonnnnng main straight along the Baku shoreline is a slipstreaming mecca, and with cars able to run three abreast into Turn 1, the action often looks more IndyCar than F1. However from there, the track loops around into the city’s narrow, winding Icheri Sheher old town, dramatically wending past Baku’s medieval city walls. As in Monaco, slightest mistakes are punished quickly and severely, while set-up wise, the teams are forced to choose between downforce for the twisty bits and less drag for the straight.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "04.06.2021",
+        "time": "12:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "04.06.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "05.06.2021",
+        "time": "13:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "05.06.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "06.06.2021",
+        "time": "16:00:00"
+      }
+    ]
+  },
+  "ricard": {
+    "season": "2021",
+    "round": "7",
+    "raceName": "French Grand Prix",
+    "circuitName": "Circuit Paul Ricard",
+    "firstGradPrix": "1971",
+    "numberOfLaps": "53",
+    "circuitLength": "5.842",
+    "raceDistance": "309.690",
+    "fastestLap": {
+      "time": "1:32.740",
+      "driver": "Sebastian Vettel",
+      "season": "2019"
+    },
+    "circuitInfo": "The Circuit Paul Ricard’s even distribution of high-, medium- and low-speed corners is a key reason why it’s one of the most used test circuits in the world (the typically good weather is another). F1 drivers love the 290km/h right-hander at Signes and the 5g joyride of the following Beausset bend, while the circuit’s 2018 return to the F1 calendar showed that the French Grand Prix track is a bit of an overtaking gem.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "18.06.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "18.06.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "19.06.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "19.06.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "20.06.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "red_bull_ring": {
+    "season": "2021",
+    "round": "8",
+    "raceName": "Styrian Grand Prix",
+    "circuitName": "Red Bull Ring",
+    "firstGradPrix": "1970",
+    "numberOfLaps": "71",
+    "circuitLength": "4.318",
+    "raceDistance": "306.452",
+    "fastestLap": {
+      "time": "1:05.619",
+      "driver": "Carlos Sainz",
+      "season": "2020"
+    },
+    "circuitInfo": "It’s only wee, bless it, but the Red Bull Ring packs a lot into a short lap. The first half rewards power, as the cars blast along three straights separated by a pair of uphill right-handers. But then as the drivers work their way downhill, the circuit becomes a regular toboggan ride, as the cars canyon through a series of quick corners, including the exhilarating Rindt right-hander, named for Austria’s first F1 champio.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "25.06.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "25.06.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "26.06.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "26.06.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "27.06.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "red_bull_ring_2": {
+    "season": "2021",
+    "round": "9",
+    "raceName": "Austrian Grand Prix",
+    "circuitName": "Red Bull Ring",
+    "firstGradPrix": "1970",
+    "numberOfLaps": "71",
+    "circuitLength": "4.318",
+    "raceDistance": "306.452",
+    "fastestLap": {
+      "time": "1:05.619",
+      "driver": "Carlos Sainz",
+      "season": "2020"
+    },
+    "circuitInfo": "It’s only wee, bless it, but the Red Bull Ring packs a lot into a short lap. The first half rewards power, as the cars blast along three straights separated by a pair of uphill right-handers. But then as the drivers work their way downhill, the circuit becomes a regular toboggan ride, as the cars canyon through a series of quick corners, including the exhilarating Rindt right-hander, named for Austria’s first F1 champio.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "02.07.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "02.07.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "03.07.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "03.07.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "04.07.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "silverstone": {
+    "season": "2021",
+    "round": "10",
+    "raceName": "British Grand Prix",
+    "circuitName": "Silverstone Circuit",
+    "firstGradPrix": "1950",
+    "numberOfLaps": "52",
+    "circuitLength": "5.891",
+    "raceDistance": "306.198",
+    "fastestLap": {
+      "time": "1:27.097",
+      "driver": "Max Verstappen",
+      "season": "2020"
+    },
+    "circuitInfo": "At the 2018 British Grand Prix, Lewis Hamilton compared a flat-out lap around Silverstone to flying a fighter jet, which should tell you all you need to know about the Northamptonshire circuit. Despite numerous layout changes over the years, Silverstone has always maintained its essential character as one of the fastest tracks on the F1 calendar, while historic corners like Maggotts, Becketts and Abbey provide some of the biggest challenges for racing drivers anywhere in the world.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "16.07.2021",
+        "time": "14:30:00"
+      },
+      {
+        "eventName": "Qualifying Session",
+        "date": "16.07.2021",
+        "time": "18:00:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "17.07.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Sprint Qualifying",
+        "date": "17.07.2021",
+        "time": "16:30:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "18.07.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "hungaroring": {
+    "season": "2021",
+    "round": "11",
+    "raceName": "Hungarian Grand Prix",
+    "circuitName": "Hungaroring",
+    "firstGradPrix": "1986",
+    "numberOfLaps": "70",
+    "circuitLength": "4.381",
+    "raceDistance": "306.630",
+    "fastestLap": {
+      "time": "1:16.627",
+      "driver": "Lewis Hamilton",
+      "season": "2020"
+    },
+    "circuitInfo": "The lack of straights at the Hungaroring often sees it compared to a karting circuit – and it’s true, the resemblance is uncanny. With several series of corners to string together, teams opt for Monaco levels of downforce, with a well-sorted chassis tending to be rewarded over horsepower given the short straights on offer. It’s a challenge many of the drivers relish, however, with finding a good rhythm key to setting fast lap times.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "30.07.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "30.07.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "31.07.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "31.07.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "01.08.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "spa": {
+    "season": "2021",
+    "round": "12",
+    "raceName": "Belgian Grand Prix",
+    "circuitName": "Circuit de Spa-Francorchamps",
+    "firstGradPrix": "1950",
+    "numberOfLaps": "44",
+    "circuitLength": "7.004",
+    "raceDistance": "308.052",
+    "fastestLap": {
+      "time": "1:46.286",
+      "driver": "Valtteri Bottas",
+      "season": "2018"
+    },
+    "circuitInfo": "Spa is among Formula 1 drivers’ most loved tracks, with its mix of long straights and challenging fast corners allowing them to push their cars to the edge of their capabilities – if it’s dry, that is. The size of the track and the nature of Belgian weather means it can sometimes be raining on one part of the track and dry on another, meaning grip can vary from one corner to the next. Keep an eye on the thrilling Eau Rouge, arguably the most famous sequence of corners in the world, as the drivers flick left, right and then up the hill through Raidillon.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "27.08.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "27.08.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "28.08.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "28.08.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "29.08.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "zandvoort": {
+    "season": "2021",
+    "round": "13",
+    "raceName": "Dutch Grand Prix",
+    "circuitName": "Zandvoort Circuit",
+    "firstGradPrix": "1952",
+    "numberOfLaps": "72",
+    "circuitLength": "4.259",
+    "raceDistance": "306.684",
+    "fastestLap": {
+      "time": "null",
+      "driver": "null",
+      "season": "null"
+    },
+    "circuitInfo": "‘Really quick’, ‘pretty insane’, ‘crazy’ and ‘old-school’ were words used by the current crop of F1 drivers when asked to describe the Zandvoort track that many of them tackled in their junior category days. We’d also add ‘undulating’ to that list. The Zandvoort track swoops and flows through the sand dunes, creating a rollercoaster-like feel to the lap. And while the circuit will be modernised in time for F1’s 2020 return – including increasing the banking angle at the famous Tarzan corner to an Indianapolis Motor Speedway-trumping 18 degrees – Zandvoort will remain a proper, challenging drivers’ track.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "03.09.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "03.09.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "04.09.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "04.09.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "05.09.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "monza": {
+    "season": "2021",
+    "round": "14",
+    "raceName": "Italian Grand Prix",
+    "circuitName": "Autodromo Nazionale di Monza",
+    "firstGradPrix": "1950",
+    "numberOfLaps": "53",
+    "circuitLength": "5.793",
+    "raceDistance": "306.720",
+    "fastestLap": {
+      "time": "1:21.046",
+      "driver": "Rubens Barrichello",
+      "season": "2004"
+    },
+    "circuitInfo": "Rapido! Formula 1’s fastest ever lap was set at Monza – Williams driver Juan Pablo Montoya’s 260.6km/h effort during practice for the 2004 Grand Prix – which should give you some idea of the nature of the track the locals call ‘La Pista Magica’. Cars are on full throttle for 80% of the lap, and hit their Vmax on the circuit’s 1.1km start/finish straight. From there, they roar off into the historic park section, where a series of big stops into tight chicanes give the brakes a good workout.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "10.09.2021",
+        "time": "11:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "10.09.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "11.09.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "11.09.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "12.09.2012",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "sochi": {
+    "season": "2021",
+    "round": "15",
+    "raceName": "Russian Grand Prix",
+    "circuitName": "Sochi Autodrom",
+    "firstGradPrix": "2014",
+    "numberOfLaps": "53",
+    "circuitLength": "5.848",
+    "raceDistance": "309.745",
+    "fastestLap": {
+      "time": "1:35.761",
+      "driver": "Lewis Hamilton",
+      "season": "2019"
+    },
+    "circuitInfo": "Looking at a map of the track, your eye can’t help but be drawn to the epic Turn 3, a 750m constant-radius left-hander taking the drivers around the outside of the dramatic Poyushchiye fountain. The rest of the track is characterised by a series of 90-degree bends coupled to some rapid, flowing straights-that-aren’t-straight.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "24.09.2021",
+        "time": "10:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "24.09.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "25.09.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "25.09.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "26.09.2021",
+        "time": "13:00:00"
+      }
+    ]
+  },
+  "istanbul": {
+    "season": "2021",
+    "round": "16",
+    "raceName": "Turkish Grand Prix",
+    "circuitName": "Intercity Istanbul Park",
+    "firstGradPrix": "2005",
+    "numberOfLaps": "58",
+    "circuitLength": "5.338",
+    "raceDistance": "309.396",
+    "fastestLap": {
+      "time": "1:24.770",
+      "driver": "Juan Pablo Montoya",
+      "season": "2005"
+    },
+    "circuitInfo": "",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "01.10.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "01.10.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "02.10.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "02.10.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "03.10.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "suzuka": {
+    "season": "2021",
+    "round": "17",
+    "raceName": "Japanese Grand Prix",
+    "circuitName": "Suzuka Circuit",
+    "firstGradPrix": "1987",
+    "numberOfLaps": "53",
+    "circuitLength": "5.807",
+    "raceDistance": "307.471",
+    "fastestLap": {
+      "time": "1:30.983",
+      "driver": "Lewis Hamilton",
+      "season": "2019"
+    },
+    "circuitInfo": "Show us a racing a driver who doesn’t love Suzuka, and we’ll show you a liar. The high-speed track remains one of the ultimate driving challenges, with the snaking ‘S’ Curves, the two commitment-rewarding Degners and the white-knuckle ride of 130R all highlights in a series of highlights at what is one of F1’s seminal tracks. And hey, it’s got a crossover, which is always cool, right?",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "08.10.2021",
+        "time": "04:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "08.10.2021",
+        "time": "08:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "09.10.2021",
+        "time": "05:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "09.10.2021",
+        "time": "08:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "10.10.2021",
+        "time": "07:00:00"
+      }
+    ]
+  },
+  "americas": {
+    "season": "2021",
+    "round": "18",
+    "raceName": "United States Grand Prix",
+    "circuitName": "Circuit of the Americas",
+    "firstGradPrix": "2012",
+    "numberOfLaps": "56",
+    "circuitLength": "5.513",
+    "raceDistance": "308.405",
+    "fastestLap": {
+      "time": "1:36.169",
+      "driver": "Charles Leclerc",
+      "season": "2019"
+    },
+    "circuitInfo": "If the corners at COTA seem familiar, they should be. Turns 3 through 6 look not dissimilar to Silverstone's high-speed run through Maggotts/Becketts or the S Curves at Suzuka, while Turns 12 through 15 mimic Hockenheim's stadium section. Meanwhile, the uphill run into wide, wide Turn 1 – hey, everything’s bigger in Texas, right? – has provided some fine overtaking action in the track’s short life.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "22.10.2021",
+        "time": "18:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "22.10.2021",
+        "time": "22:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "23.10.2021",
+        "time": "20:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "23.10.2021",
+        "time": "23:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "24.10.2021",
+        "time": "21:00:00"
+      }
+    ]
+  },
+  "rodriguez": {
+    "season": "2021",
+    "round": "19",
+    "raceName": "Mexican Grand Prix",
+    "circuitName": "Autódromo Hermanos Rodríguez",
+    "firstGradPrix": "1963",
+    "numberOfLaps": "71",
+    "circuitLength": "4.304",
+    "raceDistance": "305.354",
+    "fastestLap": {
+      "time": "1:18.741",
+      "driver": "Valtteri Bottas",
+      "season": "2018"
+    },
+    "circuitInfo": "High up! The Autodromo Hermanos Rodriguez sits over 2km above sea level, making the 4.3km lap a breathless experience. The track still largely follows the outline of the original 1959 circuit, the main difference being that the spectacular – and spectacularly scary – Peralta corner is now bisected, with the circuit instead winding through the old Foro Sol baseball stadium, providing one F1’s most unique vistas.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "29.10.2021",
+        "time": "18:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "29.10.2021",
+        "time": "22:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "30.10.2021",
+        "time": "18:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "30.10.2021",
+        "time": "21:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "31.10.2021",
+        "time": "20:00:00"
+      }
+    ]
+  },
+  "interlagos": {
+    "season": "2021",
+    "round": "20",
+    "raceName": "Brazilian Grand Prix",
+    "circuitName": "Autódromo José Carlos Pace",
+    "firstGradPrix": "1973",
+    "numberOfLaps": "71",
+    "circuitLength": "4.309",
+    "raceDistance": "305.909",
+    "fastestLap": {
+      "time": "1:10.540",
+      "driver": "Valtteri Bottas",
+      "season": "2018"
+    },
+    "circuitInfo": "Like many pre-World War II tracks, Interlagos features banked corners, with the drivers beginning their lap on a sort of half oval – in fact, between 1957 and the track’s return to the F1 calendar in 1990, Interlagos could be run as a giant oval. After wiggling through the Senna S and down to Turn 4, the drivers then go through a snaking in-field section with some challenging camber changes, before slinging back up the hill and through the banked final turn.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "05.11.2021",
+        "time": "15:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "05.11.2021",
+        "time": "19:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "06.11.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "06.11.2021",
+        "time": "19:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "07.11.2021",
+        "time": "18:00:00"
+      }
+    ]
+  },
+  "albert_park": {
+    "season": "2021",
+    "round": "21",
+    "raceName": "Australian Grand Prix",
+    "circuitName": "Albert Park Grand Prix Circuit",
+    "firstGradPrix": "1996",
+    "numberOfLaps": "58",
+    "circuitLength": "5.303",
+    "raceDistance": "307.574",
+    "fastestLap": {
+      "time": "1:24.125",
+      "driver": "Michael Schumacher",
+      "season": "2004"
+    },
+    "circuitInfo": "As a temporary facility, Albert Park can be quite bumpy, while the circuit at the start of the weekend is often slippery, rubbering in as the sessions progress. It’s also a circuit that requires a well-sorted chassis, with several spots on the track where the drivers require a reactive front end to allow them to chuck it into a corner – the main one being the rapid Turn 11-12 chicane. Melbourne is also one of the faster tracks on the calendar, with Lewis Hamilton’s 2018 pole lap set at an average of 235km/h.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "19.11.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "19.11.2021",
+        "time": "16:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "20.11.2021",
+        "time": "12:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "20.11.2021",
+        "time": "15:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "21.11.2021",
+        "time": "15:00:00"
+      }
+    ]
+  },
+  "jeddah": {
+    "season": "2021",
+    "round": "22",
+    "raceName": "Saudi Arabian Grand Prix",
+    "circuitName": "Jeddah Street Circuit",
+    "firstGradPrix": "2021",
+    "numberOfLaps": "50",
+    "circuitLength": "6.175",
+    "raceDistance": "308.75",
+    "fastestLap": {
+      "time": "null",
+      "driver": "null",
+      "season": "null"
+    },
+    "circuitInfo": "Fast. Very fast. Average speeds around the Jeddah Street Circuit are set to be 252km/h – quicker than those at Silverstone, and second on the 2021 calendar only to Monza – aka ‘The Temple of Speed’. It will, quite simply, be the fastest street circuit ever seen in Formula 1 – while the track will also feature the most corners on the 2021 calendar with 27, many of them quick, sinuous bends as the drivers wend their way along the Jeddah waterfront.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "03.12.2021",
+        "time": "13:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "03.12.2021",
+        "time": "17:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "04.12.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "04.12.2021",
+        "time": "17:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "05.12.2021",
+        "time": "17:00:00"
+      }
+    ]
+  },
+  "yas_marina": {
+    "season": "2021",
+    "round": "23",
+    "raceName": "Abu Dhabi Grand Prix",
+    "circuitName": "Yas Marina Circuit",
+    "firstGradPrix": "2009",
+    "numberOfLaps": "55",
+    "circuitLength": "5.554",
+    "raceDistance": "305.355",
+    "fastestLap": {
+      "time": "1:39.283",
+      "driver": "Lewis Hamilton",
+      "season": "2019"
+    },
+    "circuitInfo": "The Hermann Tilke-designed track is dominated by its 1.2km straight between Turns 7 and 8 – which, with slow-speed corners marking its beginning and end, makes it a honeypot for overtaking moves. Other highlights include the tricky run through Turns 15 and 16 into 17, which forces the drivers to brake hard with bags of lateral load still on the car.",
+    "schedule": [
+      {
+        "eventName": "Free Practice 1",
+        "date": "10.12.2021",
+        "time": "10:30:00"
+      },
+      {
+        "eventName": "Free Practice 2",
+        "date": "10.12.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Free Practice 3",
+        "date": "11.12.2021",
+        "time": "11:00:00"
+      },
+      {
+        "eventName": "Qualifying session",
+        "date": "11.12.2021",
+        "time": "14:00:00"
+      },
+      {
+        "eventName": "Race",
+        "date": "12.12.2021",
+        "time": "14:00:00"
+      }
+    ]
+  }
+
+}

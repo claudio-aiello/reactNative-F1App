@@ -1,0 +1,112 @@
+{
+  "alfa": {
+    "name": "Alfa Romeo Racing",
+    "base": "Hinwil, Switzerland",
+    "teamChief": "Frédéric Vasseur",
+    "drivers": ["Kimi Räikkönen", "Antonio Giovinazzi"],
+    "powerUnit": "Ferrari",
+    "firstEntry": "1993",
+    "championships": "0",
+    "poles": "1",
+    "fastestLaps": "5"
+  },
+  "ferrari": {
+    "name": "Scuderia Ferrari Mission Winnow",
+    "base": "Maranello, Italy",
+    "teamChief": "Mattia Binotto",
+    "drivers": ["Charles Leclerc", "Carlos Sainz"],
+    "powerUnit": "Ferrari",
+    "firstEntry": "1950",
+    "championships": "16",
+    "poles": "222",
+    "fastestLaps": "253"
+  },
+  "haas": {
+    "name": "Uralkali Haas F1 Team",
+    "base": "Kannapolis, United States",
+    "teamChief": "Guenther Steiner",
+    "drivers": ["Mick Schumacher", "Nikita Mazepin"],
+    "powerUnit": "Ferrari",
+    "firstEntry": "2016",
+    "championships": "0",
+    "poles": "0",
+    "fastestLaps": "2"
+  },
+  "mclaren": {
+    "name": "McLaren F1 Team",
+    "base": "Woking, United Kingdom",
+    "teamChief": "Andreas Seidl",
+    "drivers": ["Lando Norris", "Daniel Ricciardo"],
+    "powerUnit": "Mercedes",
+    "firstEntry": "1966",
+    "championships": "8",
+    "poles": "155",
+    "fastestLaps": "158"
+  },
+  "mercedes": {
+    "name": "Mercedes AMG Petronas Motorsport",
+    "base": "Brackley, United Kingdom",
+    "teamChief": "Toto Wolff",
+    "drivers": ["Lewis Hamilton", "Valtteri Bottas"],
+    "powerUnit": "Mercedes",
+    "firstEntry": "1970",
+    "championships": "7",
+    "poles": "121",
+    "fastestLaps": "80"
+  },
+  "aston_martin": {
+    "name": "Aston Martin Cognizant F1 Team",
+    "base": "Silverstone, United Kingdom",
+    "teamChief": "Otmar Szafnauer",
+    "drivers": ["Sebastian Vettel", "Lance Stroll"],
+    "powerUnit": "Mercedes",
+    "firstEntry": "2018",
+    "championships": "0",
+    "poles": "1",
+    "fastestLaps": "0"
+  },
+  "red_bull": {
+    "name": "Aston Martin Red Bull Racing",
+    "base": "Milton Keynes, United Kingdom",
+    "teamChief": "Christian Horner",
+    "drivers": ["Max Verstappen", "Sergio Perez"],
+    "powerUnit": "Honda",
+    "firstEntry": "1997",
+    "championships": "4",
+    "poles": "68",
+    "fastestLaps": "73"
+  },
+  "alpine": {
+    "name": "Alpine F1 Team",
+    "base": "Enstone, United Kingdom",
+    "teamChief": "Davide Brivio",
+    "drivers": ["Fernando Alonso", "Esteban Ocon"],
+    "powerUnit": "Renault",
+    "firstEntry": "1986",
+    "championships": "2",
+    "poles": "20",
+    "fastestLaps": "15"
+  },
+  "alphatauri": {
+    "name": "Scuderia AlphaTauri Honda",
+    "base": "Faenza, Italy",
+    "teamChief": "Franz Tost",
+    "drivers": ["Pierre Gasly", "Yuki Tsunoda"],
+    "powerUnit": "Honda",
+    "firstEntry": "1985",
+    "championships": "0",
+    "poles": "1",
+    "fastestLaps": "1"
+  },
+  "williams": {
+    "name": "Williams Racing",
+    "base": "Grove, United Kingdom",
+    "teamChief": "Jost Capito",
+    "drivers": ["George Russel", "Nicholas Latifi"],
+    "powerUnit": "Mercedes",
+    "firstEntry": "1978",
+    "championships": "9",
+    "poles": "129",
+    "fastestLaps": "133"
+  }
+}
